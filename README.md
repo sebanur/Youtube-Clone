@@ -43,4 +43,4 @@ This project helped me practice building reusable React components, fetching dat
 
 <h2>👀 Preview</h2>
 
-<img src="./youtube1.gif" alt="YouTube Clone Preview" width="800">
+![](youtube.gif)
